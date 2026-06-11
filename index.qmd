@@ -1,5 +1,5 @@
 ---
-title: Nutzer:innenfreundliche Wissenschaftskommunikation:
+title: Nutzer:innenfreundliche Wissenschafts<br>-kommunikation
 subtitle: Erprobung eines neuen Ansatzes zur Kommunikation von Forschungsergebnissen
 author: Kirstin Schmidt, Florian Kühlwein, Samuel Merk
 footer: Folien cc-by unter XXX
@@ -30,7 +30,11 @@ title-slide-attributes:
 
 - Wissenschaftskommunikation
 - Experimentelle Studie: Practical Significance Bias?
-  + 
+  + Forschungsfrage
+  + Stichprobe
+  + Design, Materialien und Variablen
+  + Ergebnisse
+  + Diskussion
 - Ausblick: Weitere Befunde zur Effektstärken-<br>kommunikation
 - Referenzen
 
@@ -45,7 +49,7 @@ title-slide-attributes:
 
 
 
-## Kommunikation von Forschungsergebnissen {{< iconify stash:search-results >}} {.smaller .scrollable}
+## Wissenschaftskommunikation {{< iconify stash:search-results >}} {.smaller .scrollable}
 
 - Diverse Formate der Wissenschaftskommunikation [@besa2024]
   + Kaum empirische Forschung zu nutzer:innenfreundliche Gestaltung von Wissenschaftskommunikation [z.B. @fitzgerald2022; @lortie2021; @merk2023]
@@ -81,6 +85,8 @@ title-slide-attributes:
 <br>
 <center>
 Inwieweit weisen Lehramtsstudierende beim Rezipieren von Evidenz einen Practical Significance Bias auf?
+
+Inwieweit steigern sogenannte Binomial Effect Size Displays (BESD) die Einschätzung von Effektstärken / wirken sogenannte Binomial Effect Size Displays (BESD) Practical Significance Bias entgegen?
 </center>
 
 
@@ -107,14 +113,16 @@ erneut Lehramtsstudierende mit unterschiedlichen (akademischen) Hintergründen; 
 
 :::
 
+
 ## Design, Materialien und Variablen {{< iconify ri:survey-line >}} {.smaller .scrollable}
 
-- Between-person Experiment mit fünf Experimentalbedingungen (1 = Effektstärke wird nicht präsentiert; 2 = kleine Effektstärke als Text; 3 = große Effektstärke als Text; [4 = kleine Effektstärke als BESD; 5 = große Effektstärke als BESD]{style="color:lightgrey;"})
+- Between-person Experiment mit fünf Experimentalbedingungen (1 = Effektstärke wird nicht präsentiert; 2 = kleine Effektstärke als Text; 3 = große Effektstärke als Text; 4 = kleine Effektstärke als BESD; 5 = große Effektstärke als BESD)
 
 <center>![](img/Study-PSB_no-effect-size-presented.png){.lightbox group="my-gallery" width="300"}</center>
 
 ::: {style="display:none"}
-![](img/Study-PSB_small-effect-size_no-BESD.png){.lightbox group="my-gallery" width="300"} :::
+![](img/Study-PSB_small-effect-size_no-BESD.png){.lightbox group="my-gallery" width="300"} 
+:::
 
 - Abhängige Variablen:
   - *Entscheidungsrating*: <br> ![](img/Study-PSB_Entscheidungsrating.png){.lightbox width="400"}
@@ -194,7 +202,7 @@ Ergänzende Note:
 
 ::: 
 
-## Zentrale (vorläufige) Erkenntnisse {{< iconify majesticons:lightbulb-shine-line >}}
+## Diskussion {{< iconify boxicons:discussion >}}
 * Practical Significance Bias kann bei Lehramtsstudierenden repliziert werden [@michal2024]
   + Je nach Operationalisierung (Entscheidungsrating vs. Guestimation) unterschiedlich stark ausgeprägt
   + Kommunizieren von Effektstärken als mögliche Gegenmaßnahme 
@@ -210,9 +218,8 @@ Ergänzende Note:
 ## Ausblick: Weitere Befunde zur Effektstärkenkommunikation {{< iconify boxicons:discussion >}} {.smaller .scrollable}
 
 - Lehrpersonen differenzieren zwischen kleinen und großen Effektstärken [@merk2023; @kuhlwein2025]
-- Mit geeigneten Visualisierungen schätzen Lehrpersonen Effektgrößen erstaunlich akkurat ein (Darstellung von Streuung [@merk2023]; Annotationen [@schneider2024]) 
+- Mit geeigneten Visualisierungen schätzen Lehrpersonen Effektgrößen erstaunlich akkurat ein (BESD; Darstellung von Streuung [@merk2023]; Annotationen [@schneider2024]) 
 
-<center> ![](img/Study-PSB_small-effect-size_with-BESD.png){.lightbox group="my-gallery" width="100"} </center>
 
 - ***Common** Language Effect Size* $\nRightarrow$ ***Widely Understood** Effect Size*: 
   + Lehrpersonen weisen Fehlkonzepte z.B. in der Interpretation von Cohens' U3 auf  [z.B. @kuhlwein2025; @schmidt2023; @schneider2024]
