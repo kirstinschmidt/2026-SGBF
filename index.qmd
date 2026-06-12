@@ -1,7 +1,7 @@
 ---
 title: Nutzer:innenfreundliche Wissenschafts<br>-kommunikation
 subtitle: Erprobung eines neuen Ansatzes zur Kommunikation von Forschungsergebnissen
-author: Kirstin Schmidt, Florian Kühlwein, Samuel Merk
+author: Kirstin Schmidt, Florian Kühlwein, <br> Samuel Merk
 footer: Folien cc-by unter XXX
 institute: Pädagogische Hochschule Karlsruhe | <br> Institut für Empirische Bildungsforschung
 logo: img/ph-logo.svg
@@ -28,6 +28,7 @@ title-slide-attributes:
 # z.B. library(tidyverse)
 ```
 
+<!-- ich würde mit Angebot Nutzung starten, dann die anderen Beiträge da einordnen und dann WK --> 
 - Wissenschaftskommunikation
 - Experimentelle Studie: Practical Significance Bias?
   + Forschungsfrage
@@ -47,24 +48,67 @@ title-slide-attributes:
 :::
 
 
+## Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} {.smaller auto-animate="true"}
+
+> Faktoren, die evidenzinformiertes Handeln fördern oder hemmen, sind divers [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018], können aber in Faktoren seitens  __der Nutzenden__ oder __des Angebots__ unterteilt werden [@schmidt2024]
+
+<center>
+![](img/Angebot-Nutzungsmodell.png){.lightbox width="50%" fig-align="center"}
+
+</center>
+
+::: notes
+... der Angebots oder Nutzenden-Seite zugeordnet werden
+
+- Nutzendenseite bezieht sich auf die Ausstattung der (angehenden) Lehrpersonen - evidenzinformiertes Handeln erleichtern
+  - bspw. über welche Überzeugungen Lehrpersonen verfügen
+  - oder ihr forschungsmethodisches Wissen
+- Angebot bezieht sich auf die wissenschaftliche Evidenz
+  - Aufbereitung durch Forschende oder Schnittstellen sogenannte Knowledge Brokers wie Clearing Houses
+  - z.B. ihre Zugänglichkeit und ihre Aufbereitung
+- Zudem können sich beide Seiten gegenseitig beeinflussen
+  + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot mit z.B. Hervorhebungen, die die Aufmerksamkeit auf wichtige Infos lenkenerhöht werden
+- Daher kann man die Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
+- mit dieser Heuristik auf unsere Forschungsstudien blicken
+
+::: 
 
 
 ## Wissenschaftskommunikation {{< iconify stash:search-results >}} {.smaller .scrollable}
 
-- Diverse Formate der Wissenschaftskommunikation [@besa2024]
-  + Kaum empirische Forschung zu nutzer:innenfreundliche Gestaltung von Wissenschaftskommunikation [z.B. @fitzgerald2022; @lortie2021; @merk2023]
-  + Diverse Darstellungsweisen der Forschungsergebnisse: 
+- Diverse Formate der Wissenschaftskommunikation [@besa2024], aber kaum empirische Forschung zu nutzer:innenfreundliche Gestaltung von Wissenschaftskommunikation [z.B. @fitzgerald2022; @lortie2021; @merk2023]
+- Effektexistenz und Effektstärke zentrale Entität, um praktische Schlussfolgerungen zu ziehen
+
+<center> ![](img/Beispiel.png){.lightbox width="70%" fig-align="center"} </center>
+
+::: notes
+
+- Fehlkonzepte zu bildungswissenschaftlichen Themen sind prävalent unter Praktiker:innen
+- Wissenschaftskommunikation notwendig, um Fehlkonzepte zu reduzieren / aufzulösen
+- Dafür Kommunikation über Effektexistenz notwendig 
+  + z.B. hat das Unterrichten gemäß der Lernstile einen Effekt auf Schüler:innenleistung -> nein -> Konsequenz es nicht umzusetzen liegt nahe, sonst hohe Opportunitätskosten -> viel Zeit in eine Methode investiert, die nachweislich Lernleistung nicht steigert
+  + Effektexistenz bei ausfürlichem  schriftliches Feedback vorhanden 
+  + aber dann benötigen wir zusätzlich Info über Größe d. Effekts, warum L. investiert vermutlich mehrere Stunden pro Woche in schriftliches Feedback, wenn jetzt - wie die Evidenz zeigt - der Effekt aber gering ist -> hohe Opportunitätskosten, L. könnte diese Zeit anderweitig nutzen
+
+
+::: 
+
+
+## Wissenschaftskommunikation {{< iconify stash:search-results >}} {.smaller .scrollable}
+
+> Unterschiedliche Darstellungen von Effektstärken in Wissenschaftskommunikation vorhanden: 
 
 <center> 
 | | | | |
 |--|--|--|--|
-|![](img/CHU_Forschendes%20Lernen.png){.lightbox width="160" fig-align="left"}[@knogler2017]|![](img/Tüdibase_Gamification.png){.lightbox width="160" fig-align="left"}[@backfisch2021]|![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="160" fig-align="left"}[@rijkhoek2019]|![](img/Welt_PISA.png){.lightbox width="160" fig-align="left"}[@michler2014]|
+|![](img/CHU_Forschendes%20Lernen.png){.lightbox width="140" fig-align="left"}[@knogler2017]|![](img/Tüdibase_Gamification.png){.lightbox width="140" fig-align="left"}[@backfisch2021]|![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="140" fig-align="left"}[@rijkhoek2019]|![](img/Welt_PISA.png){.lightbox width="140" fig-align="left"}[@michler2014]|
 </center>
 
-- Verschiedene textliche und visuelle Darstellungen von Effektstärken beeinflussen die Wahrnehmung und Einschätzung von Effektstärken durch (angehende) Lehrpersonen [z.B. @schmidt2023; @merk2023; @kuhlwein2025; @schneider2024]
-- Wenn in Forschungsberichten Informationen über Effektstärken fehlen, assoziieren wissenschaftliche Laien automatisch große Effekte (Practical Significance Bias) [@michal2024]
-
-<!-- ![](img/Paper_Retrieval%20practice.png){.lightbox width="160" fig-align="left"}[@adesope2017]|![](img/tagesschau.jpg){.lightbox width="100"}| -->
+  * Lehrpersonen können zwischen kleinen und großen Effektstärken differenzieren [@merk2023; @kuhlwein2025]
+  * ***Common** Language Effect Size* $\nRightarrow$ ***Widely Understood** Effect Size*: Lehrpersonen weisen Fehlkonzepte z.B. in der Interpretation von Cohens' U3 auf  [z.B. @kuhlwein2025; @schmidt2023; @schneider2024]
+  * Mit geeigneten Visualisierungen schätzen Lehrpersonen Effektgrößen erstaunlich akkurat ein (Darstellung von Streuung [@merk2023]; Annotationen [@schneider2024]) 
+  * Wenn in Forschungsberichten Informationen über Effektstärken fehlen, assoziieren wissenschaftliche Laien automatisch große Effekte (Practical Significance Bias) [@michal2024]
+  
 
 ::: notes
 - Hintergrund ist der
@@ -78,16 +122,19 @@ title-slide-attributes:
   + Die wenige Forschung, die existiert zeigt, dass unterschiedliche Darstellung unterschiedlich wahrgenommen und eingeschätzt werden 
   + hervorheben mnöchte ich vor allem ein Ergebnis nämlich, dass eine neuere Studie zeigt, dass fehlende Information von Effektstärken dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannten practical significance bias; Studie erweitert replizieren
 
+
+Verschiedene textliche und visuelle Darstellungen von Effektstärken beeinflussen die Wahrnehmung und Einschätzung von Effektstärken durch (angehende) Lehrpersonen [z.B. @schmidt2023; @merk2023; @kuhlwein2025; @schneider2024]
+
 ::: 
 
-## Forschungsfrage {{< iconify fa6-solid circle-question >}}
-<br>
-<br>
-<center>
-Inwieweit weisen Lehramtsstudierende beim Rezipieren von Evidenz einen Practical Significance Bias auf?
+## Forschungsfragen {{< iconify fa6-solid circle-question >}}
 
-Inwieweit steigern sogenannte Binomial Effect Size Displays (BESD) die Einschätzung von Effektstärken / wirken sogenannte Binomial Effect Size Displays (BESD) Practical Significance Bias entgegen?
-</center>
+**Forschungsfrage 1:** Inwieweit weisen Lehramtsstudierende beim Rezipieren von Evidenz einen Practical Significance Bias auf?
+
+<br>
+
+**Forschungsfrage 2:** Inwieweit reduzieren sogenannte Binomial Effect Size Displays (BESD) verzerrte Einschätzung von Effektstärken?
+
 
 
 
@@ -122,15 +169,14 @@ erneut Lehramtsstudierende mit unterschiedlichen (akademischen) Hintergründen; 
 
 ::: {style="display:none"}
 ![](img/Study-PSB_small-effect-size_no-BESD.png){.lightbox group="my-gallery" width="300"} 
+
+![](img/Study-PSB_small-effect-size_with-BESD.png){.lightbox group="my-gallery" width="300"} 
+
 :::
 
 - Abhängige Variablen:
   - *Entscheidungsrating*: <br> ![](img/Study-PSB_Entscheidungsrating.png){.lightbox width="400"}
-  - *Guestimation der Effektstärke:*
-
-|  |  |
-|-----------------------------------:|:-----------------------------------|
-| Probability of Superiority ![](img/Study-PSB_Guestimation-POS.png){.lightbox width="500"} | Likert-Item ![](img/Study-PSB_Guestimation-LI.png){.lightbox width="400"} |
+  - *Guestimation der Effektstärke:* <br> ![](img/Study-PSB_Guestimation-POS.png){.lightbox width="500"}
 
 
 ::: notes
@@ -154,9 +200,39 @@ Kommen wir auch hier - zu den vorläufigen - Ergebnissen
 :::
 
 
+## Hypothesen {.smaller .scrollable}
+
+::: {style="font-size: 0.8em;"}
+**Practical Significance Bias**
+
+*Entscheidungsrating*
+
+* H1a: Empfehlung<sub>keine Effektstärke präsentiert</sub> > Empfehlung<sub>kleine Effektstärke (Text)</sub>
+* H1b: Empfehlung<sub>keine Effektstärke präsentiert</sub> ≅ Empfehlung große Effektstärke (Text) 
+
+*Guestimation* 
+
+* H1c: Wahrgenommene Effektstärke<sub>keine Effektstärke präsentiert</sub> > Wahrgenommene Effektstärke<sub>kleine Effektstärke (Text)</sub>
+* H1d: Wahrgenommene Effektstärke<sub>keine Effektstärke präsentiert</sub> ≅ Wahrgenommene Effektstärke<sub>große Effektstärke (Text)</sub>
+
+**Effektstärkenverständnis**
+
+*Wahrgenommene Effektstärke* 
+
+* H2a: Wahrgenommene Effektstärke<sub>große Effektstärke (Text)</sub> > Wahrgenommene Effektstärke<sub>kleine Effektstärke (Text)</sub>
+* H2b: Wahrgenommene Effektstärke<sub>große Effektstärke (BESD)</sub> > Wahrgenommene Effektstärke<sub>kleine Effektstärke (BESD)</sub>
+* H2c: Wahrgenommene Effektstärke<sub>kleine Effektstärke (Text)</sub> > Wahrgenommene Effektstärke<sub>kleine Effektstärke (BESD)</sub>
+
+*Akkuratheit der Effektstärkeneinschätzung *
+
+* H3a: Einschätzungsfehler der Effektstärke<sub>große Effektstärke (Text)</sub> > Einschätzungsfehler der Effektstärke<sub>große Effektstärke (BESD)</sub>
+* H4b: Einschätzungsfehler der Effektstärke<sub>kleine Effektstärke (Text)</sub> > Einschätzungsfehler der Effektstärke<sub>kleine Effektstärke (BESD)</sub>
+
+:::
+
 ## Ergebnisse: Entscheidungsrating {{< iconify streamline-sharp:magnifying-glass >}}
 
-<center>![](img/Study-PSB_Abbildung_decision_rating.png){.lightbox width="700"}</center>
+<center>![](img/Abbildung_decision_rating.png){.lightbox width="700"}</center>
 
 
 ::: notes
@@ -166,105 +242,50 @@ Kommen wir auch hier - zu den vorläufigen - Ergebnissen
 - Schauen wir uns zunächst das Entscheidungsrating an, also inwieweit sie das neue Curriculum empfehlen würden
   + x-Achse Rating
   - y-Achse verschiedenen Experimentalgruppen
-- fokussieren wir die keine Effektstärke und große Effektstärke-Bedingung, sehen wir kaum Unterschiede im Antwortverhalten, d.h. ähnlich stark empfehlen -> könnte man also deskriptiv als PSB deuten
-- wir sehen aber auch, dass die Studierenden zwischen kleiner und großer Effektstärke differenzieren, dass sie das Curriculum im Durchschnitt stärker empfehlen, wenn größere Effektstärke präsentiert wird
+- fokussieren wir die keine Effektstärke und große Effektstärke-Bedingung, sehen wir kaum Unterschiede im Antwortverhalten, d.h. ähnlich stark empfehlen 
+- höheres Rating bei keine Effektstärke als bei kleine Effektstärke
+- inferenzstatistisch mit Bayesianischen Analysen abgesichert
 
 ::: 
 
 
-## Ergebnisse: Guestimation I {{< iconify  streamline-sharp:magnifying-glass >}}
+## Ergebnisse: Guestimation {{< iconify streamline-sharp:magnifying-glass >}}
 
-<center>![](img/Study-PSB_Abbildung_guestimation_POS.png){.lightbox width="700"}</center>
+<center>![](img/Abbildung_guestimation_POS.png){.lightbox width="700"}</center>
 
 ::: notes
 
-- hinsichtlich der Einschätzung der Effektstärke, deskriptiv weniger unterschiedlich könnte man sagen
-- Einschätzungen sind ohne Angaben zur Effektstärke etwas geringer als bei Bedingung große Effektstärke (Text), aber durchschnittlich größer als bei Bedingung kleiner Effekt.
-
-
-Ergänzende Note:
-
-- mit BESD akkurater, aber auch mehr, die die Richtung verwechseln
-::: 
-
-## Ergebnisse: Guestimation II {{< iconify streamline-sharp:magnifying-glass >}}
-
-<center>![](img/Study-PSB_Abbildung_guestimation_LI.png){.lightbox}</center>
-
-
-::: notes
-
-- weitere Operationalisierung: Ergebnisse des Likert Items / oridinal
-- auch hier erkennen wir, dass die Antwortverteilung zwischen groß und keine Effektstärke sehr ähnlich ist, bei keine Effektstärke sogar häufiger großer Effekt angekreuzt wird
-- wir erkennen aber auch, dass zwischen groß und kleiner Effektstärke differenziert wird
-
-
+alle Hypothesen inferenzstatistisch abgesichert, lediglich Unterschied zwischen kleine Effsize (Text) und kleine Effsize (BESD) inkonklusiv
 
 ::: 
 
-## Diskussion {{< iconify boxicons:discussion >}}
-* Practical Significance Bias kann bei Lehramtsstudierenden repliziert werden [@michal2024]
-  + Je nach Operationalisierung (Entscheidungsrating vs. Guestimation) unterschiedlich stark ausgeprägt
-  + Kommunizieren von Effektstärken als mögliche Gegenmaßnahme 
+## Ergebnisse: Rating Error {{< iconify  streamline-sharp:magnifying-glass >}}
 
+<center>![](img/Abbildung_rating_error.png){.lightbox width="700"}</center>
+
+
+## Diskussion {{< iconify boxicons:discussion >}} {.smaller}
+
+> Practical Significance Bias [@michal2024] kann bei Lehramtsstudierenden repliziert werden 
+
+* Practical Significance Bias je nach Operationalisierung (Entscheidungsrating vs. Guestimation) unterschiedlich stark ausgeprägt <br> 
+
+* Präsentation von Effektstärken (Text und BESF) eine Möglichkeit Practical Significance Bias vorzubeugen
+  + Obwohl einfach konstruiertes Beispiel (Neues vs. altes Curriculum, Regelstandards erreicht vs. Regelstandards nicht erreicht), Unterschied zwischen Text und BESD vorhanden
+  + BESD scheint Verzerrungen in der Effektstärkenwahrnehmung stärker zu reduzieren
+
+* Limitationen: 
+  + Einfach konstruiertes Beispiel
+  + Operationalisierung von Practical Significance Bias
+  + Interpretation eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln
+  
 ::: notes
 - zusammengefasst deuten die ersten deskriptiven Analysen also darauf hin, dass sich der PSB bei Lehramtsstudierenden replizieren lässt, aber je nach Operationalisierung/Stimuli unterschiedlich stark ausgeprägt ist (Idee thinking fast/slow)
 - gleichzeitig auch Gegenmaßnahme deutlich: Kommunizieren von Effektstärke
-  + Titel Ergebnisse aus verschiedenen experimentellen Studien angekündigt, daher noch Überblick weitere Forschungsbefunde aus unserer AG
 
 
-::: 
+* Limitationen
 
-## Ausblick: Weitere Befunde zur Effektstärkenkommunikation {{< iconify boxicons:discussion >}} {.smaller .scrollable}
-
-- Lehrpersonen differenzieren zwischen kleinen und großen Effektstärken [@merk2023; @kuhlwein2025]
-- Mit geeigneten Visualisierungen schätzen Lehrpersonen Effektgrößen erstaunlich akkurat ein (BESD; Darstellung von Streuung [@merk2023]; Annotationen [@schneider2024]) 
-
-
-- ***Common** Language Effect Size* $\nRightarrow$ ***Widely Understood** Effect Size*: 
-  + Lehrpersonen weisen Fehlkonzepte z.B. in der Interpretation von Cohens' U3 auf  [z.B. @kuhlwein2025; @schmidt2023; @schneider2024]
-  + Lehrpersonen haben (teilweise) Schwierigkeiten Informationen über Effektstärken und Inferenzstatistiken voneinander zu trennen [z.B. @schmidt2023] 
-<center> ![](img/study1_interpretation_product_plot_korrekt.png){.lightbox width="150"} </center>
-
-- __Text und Bild scheinen komplementäre Vor- und Nachteile zu haben__: Lehrpersonen nehmen Cohen's U3-Formulierungen beispielsweise informativer wahr, schätzen aber visuelle Effektstärkendarstellung (Halfeye-Plots) genauer ein [@kuhlwein2025]
-
-|||
-|--|--|
-|![](img/Study-Text-Viz_Informativeness.png){.lightbox width="100"}|![](img/Study-Text-Viz_Accuracy1.png){.lightbox width="100"}|
-
-
-::: notes 
-- Lehrpersonen können zwischen großen und kleinen Effekten unterscheiden -> wie auch vorher und daher verstärktes Argument für EffSize
-- gerade mit geeigneten Visualisierungen z.B. neben Infos zur MW auch Streuung oder zusätzliche Annotationen gelingt es ihnen auch Effektsize erstaunlich akkurat einzuschätzen
-  + neue Studie deutet darauf hin, dass BESD ein Ansatz sein könnte, hier Einschätzungen bei POS ziemlich akkurat
-
-- In Literatur spricht man von common language effect sizes / translated effect sizes, um Effektgröße leichter verständlich aufzubereiten, aber bedeutet nicht gleich weit verständliche Effektstärke, 
-  + z.B. viele Fehlkonzepte bei U3
-  + trotzdem Schwierigkeiten zwischen Effsize und U3 zu unterscheiden (Anmerkung Disentangling -> Paralellität zu PSB)
-  + was dazu führt, dass wirklich visuelle Ergänzungen hilfreich sein könnten
-
-- ABER Visualisierungen und Text scheinen komplementäre Vor-und Nachteile zu haben: Viz akkuratere Einschätzungen, aber Text informativer, leichter verständlich (etwas informativer -> relevanter für die Praxis)
-
-
-
-Zusatz:
-- Overlap etwas weniger Bias, aber immer noch gebiased
-::: 
-
-## Limitation {{< iconify boxicons:discussion >}}
-
-> Interpretation eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln {{< iconify fluent:puzzle-cube-piece-20-filled size=50px >}}
-
-
-<center>
-
-![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_barriers_black.png){.lightbox width="400"} <br>
-
-Eigene Adaption des Prozessmodells nach @grossophoff2023
-
-</center>
-
-::: notes
 - möchte nochmals herauszoomen
 - deutlich gemacht, dass trotz der Vorarbeiten es noch viel zu tun gibt
 - die Interpretation von statistischen Informationen zwar notwendig, aber nicht hinreichend für gelingedes evidenzinformiertes Handeln
