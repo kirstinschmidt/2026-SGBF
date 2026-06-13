@@ -16,7 +16,7 @@ self-contained: true
 bibliography: references.bib
 csl: apa.csl
 title-slide-attributes:
-  data-notes: freue mich sehr über die Einladung und heute hier sein zu dürfen
+  data-notes:
 ---
 
 ## Überblick {{< iconify tabler:list-filled >}} {.smaller .center}
@@ -29,15 +29,15 @@ title-slide-attributes:
 ```
 
 <!-- ich würde mit Angebot Nutzung starten, dann die anderen Beiträge da einordnen und dann WK -->
-- Wissenschaftskommunikation
+- Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
+- Wissenschaftskommunikation {{< iconify stash:search-results >}}
 - Experimentelle Studie: Practical Significance Bias?
-  + Forschungsfrage
-  + Stichprobe
-  + Design, Materialien und Variablen
-  + Ergebnisse
-  + Diskussion
-- Ausblick: Weitere Befunde zur Effektstärken-<br>kommunikation
-- Referenzen
+  + Forschungsfrage {{< iconify fa6-solid circle-question >}}
+  + Stichprobe {{< iconify fa6-solid users>}}
+  + Design, Materialien und Variablen {{< iconify ri:survey-line >}} 
+  + Ergebnisse {{< iconify streamline-sharp:magnifying-glass >}}
+- Diskussion {{< iconify boxicons:discussion >}}
+- Referenzen {{< iconify majesticons:book-open-line >}}
 
 
 ::: notes
@@ -69,7 +69,6 @@ title-slide-attributes:
 - Zudem können sich beide Seiten gegenseitig beeinflussen
   + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot mit z.B. Hervorhebungen, die die Aufmerksamkeit auf wichtige Infos lenkenerhöht werden
 - Daher kann man die Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
-- mit dieser Heuristik auf unsere Forschungsstudien blicken
 
 :::
 
@@ -101,7 +100,7 @@ title-slide-attributes:
 <center>
 | | | | |
 |--|--|--|--|
-|![](img/CHU_Forschendes%20Lernen.png){.lightbox width="140" fig-align="left"}[@knogler2017]|![](img/Tüdibase_Gamification.png){.lightbox width="140" fig-align="left"}[@backfisch2021]|![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="140" fig-align="left"}[@rijkhoek2019]|![](img/Welt_PISA.png){.lightbox width="140" fig-align="left"}[@michler2014]|
+|![](img/CHU_Forschendes%20Lernen.png){.lightbox width="140" fig-align="left"}<br>[@knogler2017]|![](img/Tüdibase_Gamification.png){.lightbox width="140" fig-align="left"}<br>[@backfisch2021]|![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="140" fig-align="left"}<br>[@rijkhoek2019]|![](img/Welt_PISA.png){.lightbox width="140" fig-align="left"}<br>[@michler2014]|
 </center>
 
   * Lehrpersonen können zwischen kleinen und großen Effektstärken differenzieren [@merk2023; @kuhlwein2025]
@@ -126,6 +125,8 @@ title-slide-attributes:
 Verschiedene textliche und visuelle Darstellungen von Effektstärken beeinflussen die Wahrnehmung und Einschätzung von Effektstärken durch (angehende) Lehrpersonen [z.B. @schmidt2023; @merk2023; @kuhlwein2025; @schneider2024]
 
 :::
+
+# Experimentelle Studie: Practical Significance Bias?
 
 ## Forschungsfragen {{< iconify fa6-solid circle-question >}}
 
@@ -182,18 +183,16 @@ erneut Lehramtsstudierende mit unterschiedlichen (akademischen) Hintergründen; 
 ::: notes
 
 - wieder between-person design
-- insgesamt 5, aber nur 3 Experimentalbedingungen für heute relevant
+- insgesamt 5
 - Alle Studierenden erhielten einen solchen Ausschnitt zur Mathekompetenz bei Grundschulkindern. Forscher:innen das alte Curriculum mit einem neuen Vergleichen
   + dieser Bericht unterscheided sich zufällig darin, wie die Ergebnisse dargestellt werden
     + wie hier keine Effektstärke
     + kleine Effektstärke verbal (wie im Orignal)
     + große Effekte statt 27, 35%
-    + Erweiterung jetzt nicht relevant
+    + Erweiterung: Effektstärke als BESD dargestellt
 - Studierenden sollten dann ein Entscheidungsrating abgeben, auf einer Skala von 0 bis 100 inwieweit sie dem Schulbezirk empfehlen würden das neue Curriculum einzusetzen
 - ergänzend zur Originalstudie noch die Einschätzung der Effektstärke abgefragt
   + angelehnt an die sogenannte POS, indem sie angeben sollten wie wahrscheinlich es ist, dass ein zufällig ausgewählte Schülerin, die die Regelstandard erreicht hat, mit dem neuen Curriculum unterrichtet wurde
-  + ordinalen Skala
-- zusätzlich Ihre Entscheidung begründen (noch nicht ausgewertet)
 
 
 Kommen wir auch hier - zu den vorläufigen - Ergebnissen
@@ -207,26 +206,26 @@ Kommen wir auch hier - zu den vorläufigen - Ergebnissen
 
 *Entscheidungsrating*
 
-* H1a: Empfehlung<sub>keine Effektstärke</sub> > Empfehlung<sub>kleine Effektstärke (Text)</sub>
-* H1b: Empfehlung<sub>keine Effektstärke</sub> ≅ Empfehlung<sub>große Effektstärke (Text)</sub>
+* H1a: keine Effektstärke > kleine Effektstärke (Text)
+* H1b: keine Effektstärke ≅ große Effektstärke (Text)
 
 *Guestimation*
 
-* H1c: Wahrgenommene Effektstärke<sub>keine Effektstärke</sub> > Wahrgenommene Effektstärke<sub>kleine Effektstärke (Text)</sub>
-* H1d: Wahrgenommene Effektstärke<sub>keine Effektstärke</sub> ≅ Wahrgenommene Effektstärke<sub>große Effektstärke (Text)</sub>
+* H1c: keine Effektstärke > kleine Effektstärke (Text)
+* H1d: keine Effektstärke ≅ große Effektstärke (Text)
 
 **Effektstärkenverständnis**
 
 *Wahrgenommene Effektstärke*
 
-* H2a: Wahrgenommene Effektstärke<sub>große Effektstärke (Text)</sub> > Wahrgenommene Effektstärke<sub>kleine Effektstärke (Text)</sub>
-* H2b: Wahrgenommene Effektstärke<sub>große Effektstärke (BESD)</sub> > Wahrgenommene Effektstärke<sub>kleine Effektstärke (BESD)</sub>
-* H2c: Wahrgenommene Effektstärke<sub>kleine Effektstärke (Text)</sub> > Wahrgenommene Effektstärke<sub>kleine Effektstärke (BESD)</sub>
+* H2a: große Effektstärke (Text) > kleine Effektstärke (Text)
+* H2b: große Effektstärke (BESD) > kleine Effektstärke (BESD)
+* H2c: kleine Effektstärke (Text) > kleine Effektstärke (BESD)
 
 *Akkuratheit der Effektstärkeneinschätzung *
 
-* H3a: Einschätzungsfehler der Effektstärke<sub>große Effektstärke (Text)</sub> > Einschätzungsfehler der Effektstärke<sub>große Effektstärke (BESD)</sub>
-* H4b: Einschätzungsfehler der Effektstärke<sub>kleine Effektstärke (Text)</sub> > Einschätzungsfehler der Effektstärke<sub>kleine Effektstärke (BESD)</sub>
+* H3a: große Effektstärke (Text) > große Effektstärke (BESD)
+* H4b: kleine Effektstärke (Text) > kleine Effektstärke (BESD)
 
 :::
 
@@ -261,7 +260,7 @@ alle Hypothesen inferenzstatistisch abgesichert, lediglich Unterschied zwischen 
 
 ## Ergebnisse: Rating Error {{< iconify  streamline-sharp:magnifying-glass >}}
 
-<center>![](img/Abbildung_rating_error.png){.lightbox width="700"}</center>
+<center>![](img/Abbildung_absolute_rating_error.png){.lightbox width="700"}</center>
 
 
 ## Diskussion {{< iconify boxicons:discussion >}} {.smaller}
@@ -271,7 +270,7 @@ alle Hypothesen inferenzstatistisch abgesichert, lediglich Unterschied zwischen 
 * Practical Significance Bias je nach Operationalisierung (Entscheidungsrating vs. Guestimation) unterschiedlich stark ausgeprägt <br>
 
 * Präsentation von Effektstärken (Text und BESF) eine Möglichkeit Practical Significance Bias vorzubeugen
-  + Obwohl einfach konstruiertes Beispiel (Neues vs. altes Curriculum, Regelstandards erreicht vs. Regelstandards nicht erreicht), Unterschied zwischen Text und BESD vorhanden
+  + Obwohl einfach konstruiertes Beispiel (dichotome AV & UV), Unterschied zwischen Text und BESD vorhanden
   + BESD scheint Verzerrungen in der Effektstärkenwahrnehmung stärker zu reduzieren
 
 * Limitationen:
@@ -297,4 +296,4 @@ alle Hypothesen inferenzstatistisch abgesichert, lediglich Unterschied zwischen 
 
 
 
-## Referenzen
+## Referenzen {{< iconify majesticons:book-open-line >}}
