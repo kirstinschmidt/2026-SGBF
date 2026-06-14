@@ -2,7 +2,7 @@
 title: Nutzer:innenfreundliche Wissenschafts<br>-kommunikation
 subtitle: Erprobung eines neuen Ansatzes zur Kommunikation von Forschungsergebnissen
 author: Kirstin Schmidt, Florian Kühlwein, <br> Samuel Merk
-footer: Folien cc-by unter XXX
+footer: Folien cc-by unter https://kirstinschmidt.github.io/2026-SGBF/
 institute: Pädagogische Hochschule Karlsruhe | <br> Institut für Empirische Bildungsforschung
 logo: img/ph-logo.svg
 picture: img/KA.jpeg
