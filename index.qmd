@@ -82,7 +82,7 @@ _ Unser Vortrag Angebotsseite
 
 
 :::{.fragment}
-<center> ![](img/Schriftliches-Feedback.png){.lightbox width="75%" fig-align="center"} </center>
+<center> ![](img/Schriftliches-Feedback.png){.lightbox width="100%" fig-align="center"} </center>
 :::
 
 ::: notes
@@ -106,14 +106,14 @@ _ Unser Vortrag Angebotsseite
 <center>
 | | | | |
 |--|--|--|--|
-|![](img/CHU_Forschendes%20Lernen.png){.lightbox width="140" fig-align="left"}<br>[@knogler2017]|![](img/Tüdibase_Gamification.png){.lightbox width="140" fig-align="left"}<br>[@backfisch2021]|![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="140" fig-align="left"}<br>[@rijkhoek2019]|![](img/Welt_PISA.png){.lightbox width="140" fig-align="left"}<br>[@michler2014]|
+|![](img/CHU_Forschendes%20Lernen.png){.lightbox width="140" fig-align="left"}<br>[@knogler2017]|![](img/Tüdibase_Gamification.png){.lightbox width="140" fig-align="left"}<br>[@backfisch2021]|![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="90" fig-align="left"}<br>[@rijkhoek2019]|![](img/Welt_PISA.png){.lightbox width="140" fig-align="left"}<br>[@michler2014]|
 </center>
 
   * Lehrpersonen können zwischen kleinen und großen Effektstärken differenzieren [@merk2023; @kuhlwein2025]
   * ***Common** Language Effect Size* $\nRightarrow$ ***Widely Understood** Effect Size*: Lehrpersonen weisen Fehlkonzepte z.B. in der Interpretation von Cohens' U3 auf  [z.B. @kuhlwein2025; @schmidt2023; @schneider2024]
   * Mit geeigneten Visualisierungen schätzen Lehrpersonen Effektgrößen erstaunlich akkurat ein (Darstellung von Streuung [@merk2023]; Annotationen [@schneider2024])
   * Wenn in Forschungsberichten Informationen über Effektstärken fehlen, assoziieren wissenschaftliche Laien automatisch große Effekte [Practical Significance Bias, @michal2024]
-
+  
 
 ::: notes
 - Landschaft der Wissenschaftskommunikation sehr divers
@@ -319,6 +319,8 @@ Kommen wir auch zu den Ergebnissen
   + Stichprobengröße
   + Operationalisierung von Practical Significance Bias
   + Interpretation eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln
+
+
 
 ::: notes
 - zusammengefasst deuten die Analysen also darauf hin, dass sich der PSB bei Lehramtsstudierenden replizieren lässt, aber je nach Operationalisierung/Stimuli unterschiedlich stark ausgeprägt ist (Idee thinking fast/slow)
