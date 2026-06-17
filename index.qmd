@@ -41,7 +41,7 @@ title-slide-attributes:
 
 ::: notes
 
-- klassisch vorgehen: theoretisch Rahmen - insbesondere auch zu dem was wir bisher gehört haben
+- klassisch vorgehen: theoretisch rahmen - insbesondere auch zu dem was wir bisher gehört haben
 - bevor ich dann auf die Studie eingehe und diese diskutiere 
 
 :::
@@ -71,7 +71,7 @@ _ Unser Vortrag Angebotsseite
 
 - Aber noch darauf hinweisen, dass dies nicht einfach nebeneinander steht - Seiten können sich gegenseitig beeinflussen
   + Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
-  + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot z.B. Visualisierungen mit Hervorhebungen, die die Aufmerksamkeit auf wichtige Infos lenken, erhöht werden
+  + (Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot z.B. Visualisierungen mit Hervorhebungen, die die Aufmerksamkeit auf wichtige Infos lenken, erhöht werden)
 
 
 :::
@@ -94,13 +94,13 @@ _ Unser Vortrag Angebotsseite
   + allerdings kaum empirische Forschung, die untersucht wie Forschungsergebnisse informativ, praktisch relevant Zielgruppe aber dennoch verständlich für Lehrpersonen aufbereitet werden kann
   + *stellt sich also die Frage was sollte alles kommuniziert werden?* gerade wenn man daran denkt, dass Forschungsberichte oftmals durch viele schwer verständliche Infos geprägt sind, die methodisches Fachwissen benötigen
   
-- Wenn wir WK aber als eine Möglichkeit ansetzen, um Fehlkonzepte zu bildungswissenschaftlichen Themen, die unter Praktiker:innen prävalent sind, zu reduzieren / aufzulösen, ist ein wichtiges Element der Wk darüber zu informieren, ob ein Effekt existiert oder nicht 
+- Wenn wir WK als eine Möglichkeit ansehen, um Fehlkonzepte zu bildungswissenschaftlichen Themen, die unter Praktiker:innen prävalent sind, zu reduzieren / aufzulösen, ist ein wichtiges Element der Wk darüber zu informieren, ob ein Effekt existiert oder nicht 
   + oder in anderen Worten, ob eine Methode wirksam ist, indem Sie beispielsweise die Leistung von SuS positiv beeinflust oder nicht
   +  um ein konkretes Beispiel zu geben
   + nehmen wir **umfassendes** - korrektives - schriftliches Feedback im Sprachunterricht 
   + wenn wir in die bisherigen Forschhungsergebnisse schauen, würden wir kommunizieren, dass ein solches Feedback die Lernleistung positiv beeinflussen kann
-  + folgt eine Lehrperson nun diesem Methodenvorschlag ist davon auszugehen, dass sie mehrere Stunden pro Woche investiert um ein solches Feedback zu verfassen
-  + nun stellt sich aber eine differenziertere Frage - lohnt sich dieser hohe Aufwand überhaupt? Wie stark verbessern sich die Lernleistung
+  + setzt eine Lehrperson nun diese Methode um ist davon auszugehen, dass sie mehrere Stunden pro Woche investiert um ein solches Feedback zu verfassen
+  + nun stellt sich aber eine differenziertere Frage - lohnt sich dieser hohe Aufwand überhaupt? Wie stark verbessert sich die Lernleistung?
   + hierfür ist die Information über die **Stärke - nicht nur die Existenz - des Effektes wichtig**
   + Schaut man in die Evidenz zeigt sich, dass der Effekt gering ist, die Umsetzung also mit hohen Opportunitätskosten einhergeht 
   + L. könnte diese Zeit anderweitig nutzen, fokussiertes Feedback
@@ -136,7 +136,7 @@ Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gew
     - Zeitungsartikel: Effektgröße im Sinne von Mittelwertsunterschieden, aber ohne Information über Streuung, also keine sogenannten standardisierten Effekte
   + Wenn man eine Tendenz aus der wenigen Forschung ableitet, die existiert, zeigt sich Folgendes: Unterschiedliche Darstellungen werden unterschiedlich wahrgenommen und eingeschätzt werden   
   + Texte häufig Fehlkonzepte, obwohl aus theoretischer Perspektive "leicht verständlich", geeignete visuelle Darstellung -> erstaunlich akkurate Einschätzungen
-  + neuere Studie zeigt, dass fehlende Information über Effektstärken - lediglich Effektexistenz - dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannter practical significance bias
+  + Unterschied: Effektexistenz - und stärke neuere Studie zeigt, dass fehlende Information über Effektstärken - lediglich Effektexistenz - dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannter practical significance bias
  
 - Hier mit unserer Studie ansetzen 
 
@@ -211,7 +211,7 @@ Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gew
 
 - between-person design mit insgesamt 5 verschiedenen Experimentalbedingungen
 - Alle Studierende erhielten einen Ausschnitt zur Mathekompetenz bei Grundschulkindern. nur 25% Regelstandards; neues Curriculum einführen; Forscher:innen untersuchten die Effektivität des alten und neuen Curriculums
-  + dieser Bericht unterschied sich zufällig darin, wie die Ergebnisse dargestellt wurden
+  + dieser Bericht unterschied sich zufällig darin, wie die Ergebnisse (Effektstärke und Format) dargestellt wurden
     + wie hier keine Effektstärke (wie im Original, nur auf Deutsch übersetzt)
     + kleine Effektstärke als Text (wie im Original, nur auf Deutsch übersetzt)
     + große Effekte statt 35% vs. 25% (wie im Original, nur auf Deutsch übersetzt)
@@ -277,7 +277,7 @@ Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gew
   + y-Achse verschiedenen Experimentalgruppen
   + Fokus liegt insbesondere auf keine Effektstärke und den Bedingungen Text
 - Hypothese, dass Studierende große Effekte assoziieren, wenn sie lediglich über die Existenz des Effektes informiert werden, aber keine Stärke des Effekts präsentiert ist
-  + anders formuliert: sich die Empfehlung der Gruppe "keine Effektstärke präsentiert" durhcschnittlich kaum von der Empfehlung in der großen Effektstärke-Bedingung unterscheidet 
+  + anders formuliert: sich die Empfehlung der Gruppe "keine Effektstärke präsentiert" durchschnittlich kaum von der Empfehlung in der großen Effektstärke-Bedingung unterscheidet 
   + deskriptiv erkennbar
   + Antwortverhalten in beiden Gruppen sehr ähnlich
 - weitere Hypothese, der Umkehrschluss, dass sich die Einschätzungen unterscheiden von den Studierenden, die ein Forschungsbericht mit kleiner Effektstärke lesen
@@ -300,7 +300,7 @@ Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gew
 - Bedingung "keine Effektstärke präsentiert" ähnlich zu große Effektstärke-Bedingung
 - Bedingung "keine Effektstärke präsentiert": Effekt größer eingeschätzt als bei kleine Effektstärke-Bedingung; insbesondere letzteres deskriptiv erkennbar
 - dies ist auch inferenzstatistisch abgesichert, aber Effekt kleiner
-
+- Verweis auf orange Line
 - zum Verständnis, auch inferenzstatistisch abgesichert, dass in beiden Darstellungformaten - also Text und BESD - große Effekte größer eingeschätzt werden als kleine Effekte 
 
 
