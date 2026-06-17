@@ -16,7 +16,7 @@ self-contained: true
 bibliography: references.bib
 csl: apa.csl
 title-slide-attributes:
-  data-notes:
+  data-notes: freue mich heute hier sein zu dürfen und Ihnen eine experimentelle Studie vorzustellen, in der wir nicht nur der Frage nachgegangen sind, ob Effektstärken an Lehramtsstudierende kommuniziert werden sollten, sondern auch ein bestimmtes Format erprobt haben
 ---
 
 ## Überblick {{< iconify tabler:list-filled >}} {.smaller .center}
@@ -41,6 +41,9 @@ title-slide-attributes:
 
 ::: notes
 
+- klassisch vorgehen: theoretisch Rahmen - insbesondere auch zu dem was wir bisher gehört haben
+- bevor ich dann auf die Studie eingehe und diese diskutiere 
+
 :::
 
 
@@ -55,15 +58,9 @@ title-slide-attributes:
 
 ::: notes
 
-- Heuristik für zahlreiche Forschungsansätze rund um evidenzinformierte Schulpraxis
-- Nutzendenseite bezieht sich auf die Ausstattung der (angehenden) Lehrpersonen - evidenzinformiertes Handeln erleichtern
-- Angebot bezieht sich auf die wissenschaftliche Evidenz
+- Anknüpfend an die Einführung von Franziska möchte ich nochmals hervorheben, dass die bisherigen Forschungsansätze rund um evidenzinformiertes Handeln insbesondere in die Nutzendenseite - also die Ausstattung der (angehenden) Lehrpersonen - mit gewissen Kompetenzen,
+- und in die Angebotsseite eingeteilt werden kann - oder wie Franziska es genannt hat: Lerngelegenheiten, 
   - Aufbereitung durch Forschende oder Schnittstellen sogenannte Knowledge Brokers wie Clearing Houses
-
-- Zudem können sich beide Seiten gegenseitig beeinflussen
-  + Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
-  + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot z.B. Visualisierungen mit Hervorhebungen, die die Aufmerksamkeit auf wichtige Infos lenken, erhöht werden
-
   
 - Vorträge im Symposium Nutzendenseite zuzuordnen
   + Rechercheverhalten
@@ -71,7 +68,12 @@ title-slide-attributes:
   + Argumentationsfähigkeit
 _ Unser Vortrag Angebotsseite
   + Aufbereitung der Evidenz -> Wissenschaftskommunikation
-  
+
+- Aber noch darauf hinweisen, dass dies nicht einfach nebeneinander steht - Seiten können sich gegenseitig beeinflussen
+  + Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
+  + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot z.B. Visualisierungen mit Hervorhebungen, die die Aufmerksamkeit auf wichtige Infos lenken, erhöht werden
+
+
 :::
 
 
@@ -87,14 +89,24 @@ _ Unser Vortrag Angebotsseite
 
 ::: notes
 
-- Fehlkonzepte zu bildungswissenschaftlichen Themen sind prävalent unter Praktiker:innen
-- Wissenschaftskommunikation notwendig, um Fehlkonzepte zu reduzieren / aufzulösen
-- Dafür Kommunikation über Effektexistenz notwendig
-  + z.B. hat das Unterrichten gemäß der Lernstile einen Effekt auf Schüler:innenleistung -> keine Effektexistenz -> Konsequenz es nicht umzusetzen liegt nahe, sonst hohe Opportunitätskosten -> viel Zeit in eine Methode investiert, die nachweislich Lernleistung nicht steigert; Zeit könnte für effektive Methode eingesetzt werden
-  + weiteres Beispiel: umfassendes - korrektives - schriftliches Feedback, hier im Gegensatz zu Lernstile Effektexistenz (teilweise) vorhanden, aber gleich sinnvoll umzusetzen?
-  + in diesem Fall benötigen wir zusätzlich Info über Größe d. Effekts
-  + L. investiert vermutlich mehrere Stunden pro Woche in ausführliches schriftliches Feedback, wenn jetzt - wie die Evidenz zeigt - der Effekt aber gering ist -> hohe Opportunitätskosten
+- Landschaft der Wissenschaftskommunikation sehr divers
+  + von Pressemitteilungen, Zeitungsartikel über Podcasts bis hin zu knowledge broker wie Clearing Houses
+  + allerdings kaum empirische Forschung, die untersucht wie Forschungsergebnisse informativ, praktisch relevant Zielgruppe aber dennoch verständlich für Lehrpersonen aufbereitet werden kann
+  + *stellt sich also die Frage was sollte alles kommuniziert werden?* gerade wenn man daran denkt, dass Forschungsberichte oftmals durch viele schwer verständliche Infos geprägt sind, die methodisches Fachwissen benötigen
+  
+- Wenn wir WK aber als eine Möglichkeit ansetzen, um Fehlkonzepte zu bildungswissenschaftlichen Themen, die unter Praktiker:innen prävalent sind, zu reduzieren / aufzulösen, ist ein wichtiges Element der Wk darüber zu informieren, ob ein Effekt existiert oder nicht 
+  + oder in anderen Worten, ob eine Methode wirksam ist, indem Sie beispielsweise die Leistung von SuS positiv beeinflust oder nicht
+  +  um ein konkretes Beispiel zu geben
+  + nehmen wir **umfassendes** - korrektives - schriftliches Feedback im Sprachunterricht 
+  + wenn wir in die bisherigen Forschhungsergebnisse schauen, würden wir kommunizieren, dass ein solches Feedback die Lernleistung positiv beeinflussen kann
+  + folgt eine Lehrperson nun diesem Methodenvorschlag ist davon auszugehen, dass sie mehrere Stunden pro Woche investiert um ein solches Feedback zu verfassen
+  + nun stellt sich aber eine differenziertere Frage - lohnt sich dieser hohe Aufwand überhaupt? Wie stark verbessern sich die Lernleistung
+  + hierfür ist die Information über die **Stärke - nicht nur die Existenz - des Effektes wichtig**
+  + Schaut man in die Evidenz zeigt sich, dass der Effekt gering ist, die Umsetzung also mit hohen Opportunitätskosten einhergeht 
   + L. könnte diese Zeit anderweitig nutzen, fokussiertes Feedback
+
+
+Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gewinn, der entsteht, wenn man sich für eine bestimmte Handlungsoption entscheidet und dadurch eine andere, ungenutzte Möglichkeit aufgibt
 
 :::
 
@@ -116,15 +128,15 @@ _ Unser Vortrag Angebotsseite
   
 
 ::: notes
-- Landschaft der Wissenschaftskommunikation sehr divers
-  + von Pressemitteilungen, Zeitungsartikel über Podcasts bis hin zu knowledge broker wie Clearing Houses
-  + allerdings kaum empirische Forschung, die untersucht wie Forschungsergebnisse informativ, praktisch relevant Zielgruppe aber dennoch verständlich für Lehrpersonen aufbereitet werden kann
+
+- Effektstärken werden auch in bisherigen Ansätzen häufig kommuniziert
+  + aber nicht immer - In Pressemitteilungen oft Effektexistenz: keine Information über Effektstärke z.B.  nur die Rede von "Schüler:innen in der vorderen Sitzreihe lösen Matheaufgaben schneller als in der hinteren Sitzteihe" 
   + spiegelt sich auch in ganz unterschiedlichen Ansätzen wider
     - Clearing Houses: Effektstärken z.B. Cohen's d als numerischer Wert, andere eine Transformation von Cohen's d, sogenannte Cohen's U3 (erklären) - verbal, aber auch visuel
-    - In Pressemitteilungen keine Information über Effektstärke z.B.  nur die Rede von "Schüler:innen in der vorderen Sitzreihe lösen Matheaufgaben schneller als in der hinteren Sitzteihe"
     - Zeitungsartikel: Effektgröße im Sinne von Mittelwertsunterschieden, aber ohne Information über Streuung, also keine sogenannten standardisierten Effekte
-  + Die wenige Forschung, die existiert zeigt, dass unterschiedliche Darstellungen unterschiedlich wahrgenommen und eingeschätzt werden -> Texte häufig Fehlkonzepte, obwohl aus theoretischer Perspektive "leicht verständlich", geeignete visuelle Darstellung -> erstaunlich akkurate Einschätzungen
-  + neuere Studie zeigt, dass fehlende Information über Effektstärken dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannter practical significance bias
+  + Wenn man eine Tendenz aus der wenigen Forschung ableitet, die existiert, zeigt sich Folgendes: Unterschiedliche Darstellungen werden unterschiedlich wahrgenommen und eingeschätzt werden   
+  + Texte häufig Fehlkonzepte, obwohl aus theoretischer Perspektive "leicht verständlich", geeignete visuelle Darstellung -> erstaunlich akkurate Einschätzungen
+  + neuere Studie zeigt, dass fehlende Information über Effektstärken - lediglich Effektexistenz - dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannter practical significance bias
  
 - Hier mit unserer Studie ansetzen 
 
@@ -137,8 +149,8 @@ _ Unser Vortrag Angebotsseite
 
 ::: notes
 
-- Practical Significance Bias mit Lehramtsstudierenden replizieren
-- zusätzlich um ein weiteres Kommunikationsformat - sog. Binomial Effect Size Displays - anreichern
+- Practical Significance Bias mit Lehramtsstudierenden replizieren - und somit empirische Evidenz für die Annahme zur notwendigen Kommunikation von Effektexistenz und **Effektstärke** 
+- zusätzlich um ein weiteres Kommunikationsformat - sog. Binomial Effect Size Displays anreichern
 
 :::
 
@@ -157,7 +169,9 @@ _ Unser Vortrag Angebotsseite
 ::: notes
 
 - um herauszufinden, inwieweit auch Lehramtsstudierende einem PSB unterliegen
-- Darstellung von Effektstäkren in Form von BESD verzerrte Einschätzungen reduzieren
+- hierfür Studie von Audrey Michal und Priti Shah ins Deutsche übersetzt 
+- und um  Darstellung von Effektstäkren in Form von BESD erweitert, um herauszufinden, ob verzerrte Einschätzungen reduzieren und grundsätzlich Assoziationen von großen Effekten vorgebeugt werden kann 
+
 
 :::
 
@@ -196,18 +210,18 @@ _ Unser Vortrag Angebotsseite
 ::: notes
 
 - between-person design mit insgesamt 5 verschiedenen Experimentalbedingungen
-- Alle Studierende erhielten einen Ausschnitt zur Mathekompetenz bei Grundschulkindern. Forscher:innen untersuchten die Effektivität des alten und neuen Curriculums
+- Alle Studierende erhielten einen Ausschnitt zur Mathekompetenz bei Grundschulkindern. nur 25% Regelstandards; neues Curriculum einführen; Forscher:innen untersuchten die Effektivität des alten und neuen Curriculums
   + dieser Bericht unterschied sich zufällig darin, wie die Ergebnisse dargestellt wurden
     + wie hier keine Effektstärke (wie im Original, nur auf Deutsch übersetzt)
     + kleine Effektstärke als Text (wie im Original, nur auf Deutsch übersetzt)
     + große Effekte statt 35% vs. 25% (wie im Original, nur auf Deutsch übersetzt)
+    + alle zuvor wie im Orginal nur auf Deutsch übersetzt
     + Erweiterung des Originals: Effektstärke als BESD dargestellt; BESD ausgewählt, da wir aus bisheriger Forschung wissen, dass geeignete Visualisierungen akkuratere Einschätzungen fördern und, dass Darstellungen von natürlichen Häufigkeiten Rezeption erleichtert
 - Studierenden sollten ein Entscheidungsrating abgeben, auf einer Skala von 0 bis 100 inwieweit sie dem Schulbezirk empfehlen würden das neue Curriculum einzusetzen
 - ergänzend zur Originalstudie noch die Einschätzung der Effektstärke abgefragt
   + angelehnt an die sogenannte POS, indem sie angeben sollten wie wahrscheinlich es ist, dass eine zufällig ausgewählte Schülerin, die die Regelstandards erreicht hat, mit dem neuen Curriculum unterrichtet wurde
 
 
-Kommen wir auch zu den Ergebnissen
 :::
 
 
@@ -244,7 +258,9 @@ Kommen wir auch zu den Ergebnissen
 
 ::: notes
 
-- um herauszufinden wie stark die eingeschätzte Effektstärke von der tatsächlich präsentierten Effektstärke abweicht, haben wir den Rating error gebildet - also das Gegenteil zu Akkuratheit
+- Hypothesen aus der Originalstudie zu PSB übernommen aber noch weitere zur Effektstärkeneinschötzung übernommen 
+- hier alles zum Nachlesen aufgelistet, aber konkret bei den Ergebnissen erklären
+
 
 ::: 
 
@@ -258,12 +274,17 @@ Kommen wir auch zu den Ergebnissen
 
 - Schauen wir uns zunächst das Entscheidungsrating an, also inwieweit die Studierenden das neue Curriculum empfehlen würden
   + x-Achse Rating
-  - y-Achse verschiedenen Experimentalgruppen
-- Hypothese, dass Empfehlung in Bedingung "keine Effektstärke präsentiert" sich im Schnitt kaum von der Empfehlung in der großen Effektstärke-Bedingung unterscheidet 
+  + y-Achse verschiedenen Experimentalgruppen
+  + Fokus liegt insbesondere auf keine Effektstärke und den Bedingungen Text
+- Hypothese, dass Studierende große Effekte assoziieren, wenn sie lediglich über die Existenz des Effektes informiert werden, aber keine Stärke des Effekts präsentiert ist
+  + anders formuliert: sich die Empfehlung der Gruppe "keine Effektstärke präsentiert" durhcschnittlich kaum von der Empfehlung in der großen Effektstärke-Bedingung unterscheidet 
   + deskriptiv erkennbar
-- weitere Hypothese, dass die Bedingung "keine Effektstärke präsentiert" sich von der kleinen-Effektstärken-Bedingung unterscheidet; Empfehlung im Durchschnitt höher ausfällt
+  + Antwortverhalten in beiden Gruppen sehr ähnlich
+- weitere Hypothese, der Umkehrschluss, dass sich die Einschätzungen unterscheiden von den Studierenden, die ein Forschungsbericht mit kleiner Effektstärke lesen
+  + dass die Bedingung "keine Effektstärke präsentiert" sich von der kleinen-Effektstärken-Bedingung unterscheidet; Empfehlung im Durchschnitt höher ausfällt
   + deskriptiv ebenfalls erkennbar
 - inferenzstatistisch mit Bayesianischen Analysen abgesichert
+- grundsätzlich zeigt sich aber auch, dass die Studierenden das neue Curriculum stärker empfehlen, wenn der Forschungsbericht eine große - statt kleine - Effektstärke aufweist
 
 :::
 
@@ -278,13 +299,11 @@ Kommen wir auch zu den Ergebnissen
 - für POS gleiche Hypothesen wie zuvor
 - Bedingung "keine Effektstärke präsentiert" ähnlich zu große Effektstärke-Bedingung
 - Bedingung "keine Effektstärke präsentiert": Effekt größer eingeschätzt als bei kleine Effektstärke-Bedingung; insbesondere letzteres deskriptiv erkennbar
-- Inferenzstatistiken: 
+- dies ist auch inferenzstatistisch abgesichert, aber Effekt kleiner
 
 - zum Verständnis, auch inferenzstatistisch abgesichert, dass in beiden Darstellungformaten - also Text und BESD - große Effekte größer eingeschätzt werden als kleine Effekte 
-- deskriptiv kein Unterschied in "kleine Effektstärke (Text)" und "kleine Effektstärke (BESD)" erkennbar
-- deskriptiv "große Effektstärke (Text)" durchschnittlich stärkere Überschätzung als bei "große Effektstärke (BESD)"
 
-- Inferenzstatistik: alle Hypothesen inferenzstatistisch abgesichert, nur angenommener Unterschied zwischen kleine Effektstärke (Text) und kleine Effektstärke (BESD) inkonklusiv
+
 
 :::
 
@@ -297,9 +316,11 @@ Kommen wir auch zu den Ergebnissen
 ::: notes
 
 - kommen wir zum Rating Error
+- um herauszufinden wie stark die eingeschätzte Effektstärke von der tatsächlich präsentierten Effektstärke abweicht, haben wir den Rating error gebildet - also das Gegenteil zu Akkuratheit
+
 - Einschätzungen in allen vier Experimentalbedingungen sind gebiased (durchschnittliche Abweichung vom präsentierten Wert), wobei Bias bei kleinen Effektstärken am geringsten ist 
-- bei kleinen Effektstärken kaum Unterschied zwischen den zwei Kommunikationsformaten (Text und BESD)
-- bei große Effektstärke geringerer Bias und geringeres Noise (geringere Streuung) wenn BESD statt Text 
+- bei kleinen Effektstärken kaum Unterschied zwischen den zwei Kommunikationsformaten (Text und BESD) - was gegen unsere Annahme spricht 
+- bei große Effektstärke geringerer Bias und geringeres Noise (geringere Streuung) wenn BESD statt Text, hypothesenkonform
 - Effekte inkonklusiv
 
 ::: 
@@ -308,6 +329,7 @@ Kommen wir auch zu den Ergebnissen
 
 > Practical Significance Bias [@michal2024] kann bei Lehramtsstudierenden repliziert werden
 
+::: {style="font-size: 0.8em;"}
 * Practical Significance Bias je nach Operationalisierung (Entscheidungsrating vs. Guestimation) unterschiedlich stark ausgeprägt <br>
 
 * Präsentation von Effektstärken (Text und BESD) eine mögliche Strategie Practical Significance Bias vorzubeugen
@@ -320,18 +342,24 @@ Kommen wir auch zu den Ergebnissen
   + Operationalisierung von Practical Significance Bias
   + Interpretation eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln
 
-
+:::
 
 ::: notes
 - zusammengefasst deuten die Analysen also darauf hin, dass sich der PSB bei Lehramtsstudierenden replizieren lässt, aber je nach Operationalisierung/Stimuli unterschiedlich stark ausgeprägt ist (Idee thinking fast/slow)
 - gleichzeitig wird deutlich, dass das Kommunizieren von Effektstärke PSB vorbeugt 
+  + Argument für das Kommunizieren von Effektstärken
+  + Obwohl statistische Entitäten, können Sie von Lehramtsstudierenden verstanden werden und führen zu akkurateren Einschätzungen
+  + BESD scheint ein geeignetes Kommunikationsformat - trotz einfachem Beispiel Vorteil gegenüber Text
+    + Einfachheit des Beispeils könnte aber der Grund sein, warum sich - zumindest deskriptiv - bei kleinen Effektstärken bisher kein Vorteil der BESD zeigt
 
 
 * Limitationen
 - einfach konstruiertes Beispiel, muss um weitere Themen, komplexere Ergebnisdarstellungen ergänzt werden
-- Operationalisierung von PSB: ab wann spricht man von einem PSB? In der vorliegenden Studie Ergebnisse eher eindeutig, aber was wenn Einschätzung in Bedingung "keine Effektstärke präsentiert" größer sind als bei kleine Effektstärke-Bedingung aber kleiner als bei große Effektstärke-Bedingung
+
+  + Unterschiede in Text und BESD lässt uns positiv stimmen, dass auch in komplexeren Unterschiede vielleicht noch deutlicher ausfallen
+  
+- Operationalisierung von PSB: ab wann spricht man von einem PSB? In der vorliegenden Studie Ergebnisse bei Empfehlung eindeutig, bei Einschätzung schon weniger eindeutig, aber immer "keine Effektstärke präsentiert" größer sind als bei kleine Effektstärke-Bedingung aber kleiner als bei große Effektstärke-Bedingung
 - herausgezoomt: die Interpretation von statistischen Informationen zwar notwendig, aber nicht hinreichend für gelingedes evidenzinformiertes Handeln
-    + sie ist nur ein Faktor, der z.B. neben Überzeugungen, die Schlussfolgerung beeinflusst
     + und insgesamt ist die Schlussfolgerungsphase wiederum nur ein kleines Puzzleteil eines komplexen Prozesses
     + gerade auch der Bezug zur Nutzung muss stärker hergestellt werden
 
