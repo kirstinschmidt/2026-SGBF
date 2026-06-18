@@ -16,7 +16,7 @@ self-contained: true
 bibliography: references.bib
 csl: apa.csl
 title-slide-attributes:
-  data-notes: freue mich heute hier sein zu dürfen und Ihnen eine experimentelle Studie vorzustellen, in der wir nicht nur der Frage nachgegangen sind, ob Effektstärken an Lehramtsstudierende kommuniziert werden sollten, sondern auch ein bestimmtes Format erprobt haben
+  data-notes: freue mich heute hier sein zu dürfen und Ihnen eine experimentelle Studie vorzustellen, in der wir nicht nur der Frage nachgegangen sind, ob Effektstärken an Lehramtsstudierende kommuniziert werden sollten, sondern auch ein bestimmtes Format evaluieren
 ---
 
 ## Überblick {{< iconify tabler:list-filled >}} {.smaller .center}
@@ -84,7 +84,7 @@ _ Unser Vortrag Angebotsseite
 
 
 :::{.fragment}
-<center> ![](img/Schriftliches-Feedback.png){.lightbox width="100%" fig-align="center"} </center>
+<center> ![](img/Schriftliches-Feedback.png){.lightbox width="45%" fig-align="center"} </center>
 :::
 
 ::: notes
@@ -92,18 +92,18 @@ _ Unser Vortrag Angebotsseite
 - Landschaft der Wissenschaftskommunikation sehr divers
   + von Pressemitteilungen, Zeitungsartikel über Podcasts bis hin zu knowledge broker wie Clearing Houses
   + allerdings kaum empirische Forschung, die untersucht wie Forschungsergebnisse informativ, praktisch relevant Zielgruppe aber dennoch verständlich für Lehrpersonen aufbereitet werden kann
-  + *stellt sich also die Frage was sollte alles kommuniziert werden?* gerade wenn man daran denkt, dass Forschungsberichte oftmals durch viele schwer verständliche Infos geprägt sind, die methodisches Fachwissen benötigen
+  + *stellt sich also die Frage was sollte alles kommuniziert werden?* gerade wenn man daran denkt, dass Forschungsberichte oftmals durch viele Infos geprägt sind, die methodisches Fachwissen benötigen
   
 - Wenn wir WK als eine Möglichkeit ansehen, um Fehlkonzepte zu bildungswissenschaftlichen Themen, die unter Praktiker:innen prävalent sind, zu reduzieren / aufzulösen, ist ein wichtiges Element der Wk darüber zu informieren, ob ein Effekt existiert oder nicht 
   + oder in anderen Worten, ob eine Methode wirksam ist, indem Sie beispielsweise die Leistung von SuS positiv beeinflust oder nicht
   +  um ein konkretes Beispiel zu geben
-  + nehmen wir **umfassendes** - korrektives - schriftliches Feedback im Sprachunterricht 
+  + nehmen wir **umfassendes** - korrektives - schriftliches Feedback z.B. Aufsatzkorrektur
   + wenn wir in die bisherigen Forschhungsergebnisse schauen, würden wir kommunizieren, dass ein solches Feedback die Lernleistung positiv beeinflussen kann
-  + setzt eine Lehrperson nun diese Methode um ist davon auszugehen, dass sie mehrere Stunden pro Woche investiert um ein solches Feedback zu verfassen
+  + setzt eine Lehrperson nun diese Methode um, ist davon auszugehen, dass sie mehrere Stunden pro Woche investiert um ein solches Feedback zu verfassen
   + nun stellt sich aber eine differenziertere Frage - lohnt sich dieser hohe Aufwand überhaupt? Wie stark verbessert sich die Lernleistung?
   + hierfür ist die Information über die **Stärke - nicht nur die Existenz - des Effektes wichtig**
   + Schaut man in die Evidenz zeigt sich, dass der Effekt gering ist, die Umsetzung also mit hohen Opportunitätskosten einhergeht 
-  + L. könnte diese Zeit anderweitig nutzen, fokussiertes Feedback
+  + L.verpasst diese Zeit anderweitig zu nutzen, fokussiertes Feedback
 
 
 Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gewinn, der entsteht, wenn man sich für eine bestimmte Handlungsoption entscheidet und dadurch eine andere, ungenutzte Möglichkeit aufgibt
@@ -113,6 +113,8 @@ Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gew
 
 ## Wissenschaftskommunikation {{< iconify stash:search-results >}} {.smaller .scrollable}
 
+* Wenn in Forschungsberichten Informationen über Effektstärken fehlen, assoziieren wissenschaftliche Laien automatisch große Effekte [Practical Significance Bias, @michal2024]
+  
 > Unterschiedliche Darstellungen von Effektstärken in Wissenschaftskommunikation vorhanden:
 
 <center>
@@ -124,19 +126,20 @@ Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gew
   * Lehrpersonen können zwischen kleinen und großen Effektstärken differenzieren [@merk2023; @kuhlwein2025]
   * ***Common** Language Effect Size* $\nRightarrow$ ***Widely Understood** Effect Size*: Lehrpersonen weisen Fehlkonzepte z.B. in der Interpretation von Cohens' U3 auf  [z.B. @kuhlwein2025; @schmidt2023; @schneider2024]
   * Mit geeigneten Visualisierungen schätzen Lehrpersonen Effektgrößen erstaunlich akkurat ein (Darstellung von Streuung [@merk2023]; Annotationen [@schneider2024])
-  * Wenn in Forschungsberichten Informationen über Effektstärken fehlen, assoziieren wissenschaftliche Laien automatisch große Effekte [Practical Significance Bias, @michal2024]
+
   
 
 ::: notes
 
-- Effektstärken werden auch in bisherigen Ansätzen häufig kommuniziert
+-  Unterschied: Effektexistenz - und stärke neuere Studie zeigt, dass fehlende Information über Effektstärken - lediglich Effektexistenz - dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannter practical significance bias
+- Blickt man in die bisherigen Formate Effektstärken werden auch in bisherigen Ansätzen häufig kommuniziert
   + aber nicht immer - In Pressemitteilungen oft Effektexistenz: keine Information über Effektstärke z.B.  nur die Rede von "Schüler:innen in der vorderen Sitzreihe lösen Matheaufgaben schneller als in der hinteren Sitzteihe" 
   + spiegelt sich auch in ganz unterschiedlichen Ansätzen wider
     - Clearing Houses: Effektstärken z.B. Cohen's d als numerischer Wert, andere eine Transformation von Cohen's d, sogenannte Cohen's U3 (erklären) - verbal, aber auch visuel
     - Zeitungsartikel: Effektgröße im Sinne von Mittelwertsunterschieden, aber ohne Information über Streuung, also keine sogenannten standardisierten Effekte
   + Wenn man eine Tendenz aus der wenigen Forschung ableitet, die existiert, zeigt sich Folgendes: Unterschiedliche Darstellungen werden unterschiedlich wahrgenommen und eingeschätzt werden   
   + Texte häufig Fehlkonzepte, obwohl aus theoretischer Perspektive "leicht verständlich", geeignete visuelle Darstellung -> erstaunlich akkurate Einschätzungen
-  + Unterschied: Effektexistenz - und stärke neuere Studie zeigt, dass fehlende Information über Effektstärken - lediglich Effektexistenz - dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannter practical significance bias
+
  
 - Hier mit unserer Studie ansetzen 
 
@@ -149,7 +152,7 @@ Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gew
 
 ::: notes
 
-- Practical Significance Bias mit Lehramtsstudierenden replizieren - und somit empirische Evidenz für die Annahme zur notwendigen Kommunikation von Effektexistenz und **Effektstärke** 
+- Practical Significance Bias mit Lehramtsstudierenden replizieren 
 - zusätzlich um ein weiteres Kommunikationsformat - sog. Binomial Effect Size Displays anreichern
 
 :::
@@ -215,7 +218,7 @@ Opportunitätskosten (auch Alternativkosten) sind der entgangene Nutzen oder Gew
     + wie hier keine Effektstärke (wie im Original, nur auf Deutsch übersetzt)
     + kleine Effektstärke als Text (wie im Original, nur auf Deutsch übersetzt)
     + große Effekte statt 35% vs. 25% (wie im Original, nur auf Deutsch übersetzt)
-    + alle zuvor wie im Orginal nur auf Deutsch übersetzt
+    + **alle zuvor wie im Orginal nur auf Deutsch übersetzt**
     + Erweiterung des Originals: Effektstärke als BESD dargestellt; BESD ausgewählt, da wir aus bisheriger Forschung wissen, dass geeignete Visualisierungen akkuratere Einschätzungen fördern und, dass Darstellungen von natürlichen Häufigkeiten Rezeption erleichtert
 - Studierenden sollten ein Entscheidungsrating abgeben, auf einer Skala von 0 bis 100 inwieweit sie dem Schulbezirk empfehlen würden das neue Curriculum einzusetzen
 - ergänzend zur Originalstudie noch die Einschätzung der Effektstärke abgefragt
